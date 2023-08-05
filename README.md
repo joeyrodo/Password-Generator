@@ -8,7 +8,7 @@
 
 ## Installation
 
-N/A
+[Link to Website](https://joeyrodo.github.io/Password-Generator/)
 
 
 ## Usage
